@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdevelopment and Python stuff
 - 🌱 I’m currently learning AutoHotkey
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me "gunzinatorthecat@gmail.com"
+- 📫 How to reach me: "gunzinatorthecat@gmail.com"
 
 <!---
 Gunzinator/Gunzinator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
