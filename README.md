@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gunzinator
 - 👀 I’m interested in Webdevelopment and Python stuff
 - 🌱 I’m currently learning AutoHotkey
-- 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me: "gunzinatorthecat@gmail.com"
 
 <!---
